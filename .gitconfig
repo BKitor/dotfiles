@@ -1,0 +1,8 @@
+[user]
+	name = bkitor
+	email = bkitor@gmail.com
+[alias]
+	br = branch
+	co = checkout
+[credential]
+	helper = store
